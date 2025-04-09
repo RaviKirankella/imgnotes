@@ -6,8 +6,8 @@
 <rect fill="#FFFFFF" width="435.687" height="841.89"/>
 
 	<!-- Added L and R markers to indicate left and right sides -->
-<text x="10" y="30" font-size="24" font-family="Arial" fill="black">R</text>
-<text x="425" y="30" font-size="24" font-family="Arial" fill="black" text-anchor="end">L</text>
+<text x="10" y="30" font-size="24" font-family="Arial" fill="red">R</text>
+<text x="425" y="30" font-size="24" font-family="Arial" fill="red" text-anchor="end">L</text>
 	
 <g>
 	<path d="M125.054,779.574v-6.859h-2.563v-0.914h6.164v0.914h-2.57v6.859H125.054z"/>
