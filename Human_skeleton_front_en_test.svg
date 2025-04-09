@@ -20,7 +20,13 @@
    inkscape:version="0.46"
    sodipodi:docname="Human_skeleton_front.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   style="display:inline;overflow:visible"><metadata
+   style="display:inline;overflow:visible">
+
+    <!-- Add these lines for "L" and "R" -->
+    <text x="10" y="30" font-size="24" fill="black">L</text> <!-- Top-left -->
+    <text x="400" y="30" font-size="24" fill="black">R</text> <!-- Top-right -->
+
+  <metadata
    id="metadata3098"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
