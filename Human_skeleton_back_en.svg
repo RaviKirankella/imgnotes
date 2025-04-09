@@ -4,6 +4,11 @@
 <svg  version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="435.687" height="841.89"
 	 viewBox="0 0 435.687 841.89" overflow="visible" enable-background="new 0 0 435.687 841.89" xml:space="preserve">
 <rect fill="#FFFFFF" width="435.687" height="841.89"/>
+
+	<!-- Added L and R markers to indicate left and right sides -->
+<text x="10" y="30" font-size="24" font-family="Arial" fill="black">L</text>
+<text x="425" y="30" font-size="24" font-family="Arial" fill="black" text-anchor="end">R</text>
+	
 <g>
 	<path d="M125.054,779.574v-6.859h-2.563v-0.914h6.164v0.914h-2.57v6.859H125.054z"/>
 	<path d="M132.062,778.879c-0.356,0.3-0.698,0.512-1.024,0.635c-0.327,0.124-0.677,0.186-1.052,0.186
