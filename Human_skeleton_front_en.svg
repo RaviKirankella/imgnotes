@@ -98,9 +98,9 @@
      y="0"
      style="fill:#ffffff;display:inline;overflow:visible" /></g>
 	
-<!-- Added L and R markers to indicate left and right sides -->
-<text x="10" y="30" font-size="24" font-family="Arial" fill="red">L</text>
-<text x="425" y="30" font-size="24" font-family="Arial" fill="red" text-anchor="end">R</text>	
+<!-- Ravi:Added L and R markers to indicate left and right sides -->
+<text x="10" y="30" font-size="24" font-family="Arial" fill="red">R</text>
+<text x="425" y="30" font-size="24" font-family="Arial" fill="red" text-anchor="end">L</text>	
 	
 <g
    inkscape:groupmode="layer"
