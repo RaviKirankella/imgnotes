@@ -96,7 +96,11 @@
      id="rect3"
      x="0"
      y="0"
-     style="fill:#ffffff;display:inline;overflow:visible" /></g><g
+     style="fill:#ffffff;display:inline;overflow:visible" /></g>
+<!-- Added L and R markers to indicate left and right sides -->
+<text x="10" y="30" font-size="24" font-family="Arial" fill="black">L</text>
+<text x="425" y="30" font-size="24" font-family="Arial" fill="black" text-anchor="end">R</text>	
+<g
    inkscape:groupmode="layer"
    id="layer3"
    inkscape:label="Skeleton"
