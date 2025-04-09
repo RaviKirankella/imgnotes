@@ -20,11 +20,7 @@
    inkscape:version="0.46"
    sodipodi:docname="Human_skeleton_front.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   style="display:inline;overflow:visible">
-
-<text x="10" y="30" font-size="24" font-family="Arial" fill="black">L</text>
-<text x="425" y="30" font-size="24" font-family="Arial" fill="black" text-anchor="end">R</text>
-<metadata
+   style="display:inline;overflow:visible"><metadata
    id="metadata3098"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
@@ -100,7 +96,12 @@
      id="rect3"
      x="0"
      y="0"
-     style="fill:#ffffff;display:inline;overflow:visible" /></g><g
+     style="fill:#ffffff;display:inline;overflow:visible" /></g>
+
+<text x="10" y="30" font-size="24" font-family="Arial" fill="black">L</text>
+<text x="425" y="30" font-size="24" font-family="Arial" fill="black" text-anchor="end">R</text>
+
+	<g
    inkscape:groupmode="layer"
    id="layer3"
    inkscape:label="Skeleton"
